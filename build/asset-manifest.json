@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Iryna-Bryzhan/ToDo-List/static/css/main.2abfd803.css",
+    "main.js": "/Iryna-Bryzhan/ToDo-List/static/js/main.925c6818.js",
+    "static/media/free-icon-delete-5610967.png": "/Iryna-Bryzhan/ToDo-List/static/media/free-icon-delete-5610967.ec486c54c00a164efe80.png",
+    "static/media/free-icon-edit-860814.png": "/Iryna-Bryzhan/ToDo-List/static/media/free-icon-edit-860814.5de789ef28d13ef0b6ba.png",
+    "index.html": "/Iryna-Bryzhan/ToDo-List/index.html",
+    "main.2abfd803.css.map": "/Iryna-Bryzhan/ToDo-List/static/css/main.2abfd803.css.map",
+    "main.925c6818.js.map": "/Iryna-Bryzhan/ToDo-List/static/js/main.925c6818.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2abfd803.css",
+    "static/js/main.925c6818.js"
+  ]
+}
